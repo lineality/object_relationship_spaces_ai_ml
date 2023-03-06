@@ -4,15 +4,6 @@
 Object Relationship Spaces for AI ML: A Framework for AI design, AI performance analysis, and AI Operating Systems
 (a definable alternative to "general intelligence")
 
-TODO:
-- add links to voting repo
-- add link to def stud repo
-- finish first draft of main sections
-- number and order appendices
-- add complexity section
-- 
-- publish to github
-- ask melanie metchel about phd
 
 Abstract
 A definable way to plan and describe the performance of AI, based on the relationships between types of "objects" that AI will need to deal with. 
