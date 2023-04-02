@@ -1,6 +1,9 @@
 <under construction>
 # object_relationship_spaces_ai_ml
 
+## Abridged Paper PDF here:
+https://github.com/lineality/object_relationship_spaces_ai_ml/blob/main/ObjRxSpc_abridged_under_construction_v216.pdf
+
 from v216
 ```
 Definable Units of "Intelligence" for Evaluating AI Performance
