@@ -47,6 +47,8 @@ such that, 'objects' are defined as existing outside of the AI for managing the 
 Interconnecting/Intersecting Areas:
 A repeating theme, context, and agenda in this paper is to pragmatically leverage the interconnected functionality of clear definitions, STEM, projects, participation, positive values, and productivity. 
 
+To reiterate and state this as openly as possible, the context and agenda here is a project, best practice, positive-values, productivity, context. 
+
 
 Framework vs. Pronouns vs. Hyperbole vs. Tesler Rule (Summary)
 1. Discussion with undefined terms (for example specific abilities) can loop indefinitely regardless of the abilities of AI at that time or changes over time in what AI can do: Undefined & under-defined goals, terms and definitions tell us too little about what is needed, what the system can do, and if the system can do what is needed.
@@ -68,9 +70,6 @@ Part four concerns goals and agendas, background concepts and principles,
 and future design factors.
 
 Appendices include more examples and details.
-
-
-
 
 
 
