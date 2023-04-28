@@ -4,6 +4,12 @@
 
 ## Abridged Paper PDF in repo
 
+Mini-Article Posted on Blog
+1. 
+2. 
+3. 
+4. 
+
 #### From v226: Abstract and Short Table of Contents
 ```
 Definable Units of "Intelligence" for Evaluating AI Performance
