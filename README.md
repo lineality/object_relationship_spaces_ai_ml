@@ -5,10 +5,23 @@
 ## Abridged Paper PDF in repo
 
 Mini-Article Posted on Blog
-1. 
-2. 
-3. 
-4. 
+
+## 1. AGI’s Culture-Tools 
+https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2
+## 2. AI in a General Learning Gauntlet
+https://medium.com/@GeoffreyGordonAshbrook/ai-in-a-general-learning-gauntlet-9731a983df7b
+
+## 3. Human-AI Interactions Study: World Chess Championships
+https://medium.com/@GeoffreyGordonAshbrook/human-ai-interactions-study-world-chess-championships-677298e3195e
+
+## 4. Our AI Ancestors: Dumbledore’s Portrait and Ray Kurzweil’s Father
+https://medium.com/@GeoffreyGordonAshbrook/our-ai-ancestors-dumbledores-portrait-and-ray-kurzweil-s-father-85ec89f85224
+
+## 5. AI’s Counting Problems
+https://medium.com/@GeoffreyGordonAshbrook/ai-counting-problems-8cb9f66e4c7f
+
+## 6. AI Generalization’s Types & Testability
+https://medium.com/@GeoffreyGordonAshbrook/ai-generalizations-types-testability-2341827faf
 
 #### From v226: Abstract and Short Table of Contents
 ```
