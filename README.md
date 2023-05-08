@@ -4,7 +4,7 @@
 
 ## Abridged Paper PDF in repo
 
-Mini-Article Posted on Blog
+#### Mini-Articles Posted on Blog:
 
 ## 1. AGI’s Culture-Tools 
 https://medium.com/@GeoffreyGordonAshbrook/agis-culture-tools-e5538c8429d2
