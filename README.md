@@ -4,7 +4,7 @@
 
 ## Abridged Paper PDF in repo
 
-#### Mini-Articles Posted on Blog:
+#### Mini-Articles/excerpts Posted on Blog: https://medium.com/@GeoffreyGordonAshbrook
 ## Articles
 
 Sept 2023: [Modeling Participant Architectural Learning in Five Trees Plus Mindstate](https://medium.com/@GeoffreyGordonAshbrook/modeling-participant-architectural-learning-in-five-trees-plus-mind-state-36a98ee66655)  
