@@ -2,6 +2,9 @@
 
 # object_relationship_spaces_ai_ml
 
+also see: https://github.com/lineality/definition_behavior_studies
+also see: 
+
 ## Abridged Paper PDF in repo
 
 #### Mini-Articles/excerpts Posted on Blog: https://medium.com/@GeoffreyGordonAshbrook
